@@ -11,9 +11,10 @@ class Solution {
             {
                count++;
             }
-            ans[i] = count;
 
           }
+            ans[i] = count;
+
         }
         return ans;
     }
